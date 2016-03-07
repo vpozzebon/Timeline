@@ -1,0 +1,13 @@
+{
+"id" : "TyWmBDM1y2",
+"title" : "Kurevski dies",
+"startdate": "1921-07-01 12:00",
+"enddate": "1921-07-01 12:00",
+"description" : "Andrey Kurevsky died in 1221 Because of a heart attack",
+"icon": "K_r.png",
+"low_threshold": "1",
+"high_threshold": "60",
+"importance": "45",
+"ypix": "0",
+"slug":""
+}

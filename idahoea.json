@@ -1,0 +1,111 @@
+[
+{
+"id": "idahoTimeline",
+"title": "Testing a timeline",
+"focus_date": "1981-07-01 12:00",
+"initial_zoom": "45",
+"color": "#82530d",
+"size_importance": "true",
+"events":
+[
+{
+"id" : "AfUXDVvuSG",
+"title" : "Kurevski dies",
+"startdate": "1921-07-01 12:00",
+"enddate": "1921-07-01 12:00",
+"description" : "Andrey Kurevsky died in 1221 Because of a heart attack</br> <i>AfUXDVvuSG</i>",
+"icon": "K_r.png",
+"low_threshold": "1",
+"high_threshold": "60",
+"importance": "45",
+"ypix": "0",
+"slug":""
+}
+,
+{
+"id" : "TyWmBDM1y2",
+"title" : "Kurevski dies",
+"startdate": "1921-07-01 12:00",
+"enddate": "1921-07-01 12:00",
+"description" : "Andrey Kurevsky died in 1221 Because of a heart attack",
+"icon": "K_r.png",
+"low_threshold": "1",
+"high_threshold": "60",
+"importance": "45",
+"ypix": "0",
+"slug":""
+}
+,
+{
+"id" : "YabLJwDrLs",
+"title" : "marmarmar",
+"startdate": "1803-07-01 12:00",
+"enddate": "1803-07-01 12:00",
+"description" : "koupepe",
+"icon": "triangle_green.png",
+"low_threshold": "1",
+"high_threshold": "60",
+"importance": "45",
+"ypix": "0",
+"slug":""
+}
+,
+{
+"id" : "cESLRzL4bP",
+"title" : "8anashs",
+"startdate": "1803-07-01 12:00",
+"enddate": "1803-07-01 12:00",
+"description" : "manolis",
+"icon": "triangle_green.png",
+"low_threshold": "1",
+"high_threshold": "60",
+"importance": "45",
+"ypix": "0",
+"slug":""
+}
+,
+{
+"id" : "fV4tSoFlZ8",
+"title" : "Kurevski dies",
+"startdate": "1925-07-01 12:00",
+"enddate": "1925-07-01 12:00",
+"description" : "Andrey Kurevsky died in 1221 Because of a heart attack</br></br> <i>[#idfV4tSoFlZ8]</i>",
+"icon": "K_b.png",
+"low_threshold": "1",
+"high_threshold": "60",
+"importance": "45",
+"ypix": "0",
+"slug":""
+}
+,
+{
+"id" : "nN7Zoi993p",
+"title" : "John",
+"startdate": "1803-07-01 12:00",
+"enddate": "1803-07-01 12:00",
+"description" : "Malkovic",
+"icon": "triangle_green.png",
+"low_threshold": "1",
+"high_threshold": "60",
+"importance": "45",
+"ypix": "0",
+"slug":""
+}
+,
+{
+"id" : "unD2Ll7OcO",
+"title" : "Taneli was born",
+"startdate": "1987-07-01 12:00",
+"enddate": "1987-07-01 12:00",
+"description" : "Taneli was born on 1978 and then he went to paleological school",
+"icon": "triangle_green.png",
+"low_threshold": "1",
+"high_threshold": "60",
+"importance": "45",
+"ypix": "0",
+"slug":""
+}
+
+]
+}
+]

@@ -1,0 +1,13 @@
+{
+"id" : "unD2Ll7OcO",
+"title" : "Taneli was born",
+"startdate": "1987-07-01 12:00",
+"enddate": "1987-07-01 12:00",
+"description" : "Taneli was born on 1978 and then he went to paleological school",
+"icon": "triangle_green.png",
+"low_threshold": "1",
+"high_threshold": "60",
+"importance": "45",
+"ypix": "0",
+"slug":""
+}

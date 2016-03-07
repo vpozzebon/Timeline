@@ -1,0 +1,44 @@
+[
+{
+    "id": "idahoTimeline",
+    "title": "A History of Idaho",
+    "focus_date": "1981-07-01 12:00",
+    "initial_zoom": "45",
+	"color": "#82530d",
+	"size_importance": "true",
+    "events":
+    [
+    
+    {
+        "id": "1393",
+        "title": "Louisiana Purchase",
+        "startdate": "1803-07-01 12:00",
+        "enddate": "1803-07-01 12:00",
+        "description": "The United States purchases Louisiana Territory.",
+"icon": "triangle_green.png",
+        "low_threshold": "1",
+        "high_threshold": "60",
+        "importance": "45",
+        "ypix": "0",
+        "slug":""
+    },
+
+	{
+	        "id": "bsu-1",
+	        "title": "Boise State wins the Fiesta Bowl",
+	        "startdate": "2007-01-01 20:00:00",
+	        "enddate": "1995-05-31 08:00",
+	        "date_limit": "da",
+	        "description": "The 2007 Tostitos Fiesta Bowl was a college football bowl game played as part of the 2006–2007 Bowl Championship Series (BCS) of the 2006 NCAA Division I FBS football season. Played annually since 1971, originally at Sun Devil Stadium on the campus of Arizona State University in Tempe, Arizona through 2006, the game was played on January 1, 2007, at the game's new home field, the University of Phoenix Stadium in Glendale, Arizona, and pitted the Big 12 champion #8 Oklahoma Sooners against the WAC champion #9 Boise State Broncos. The contest was televised on Fox. With this broadcast, the Fiesta Bowl became the first bowl game to air on all the 'big four' television networks (ABC, CBS, Fox, NBC) - the Orange Bowl became the second, the following night.<br><br>Oklahoma was the designated home team and was favored by 7½ points, but the Broncos won in overtime, 43–42. Oklahoma wore their red home jerseys, while Boise State wore their road white jerseys. Both Boise, Idaho and Norman, Oklahoma are about 15 hour trips from the bowl site.<br><br>The game featured a series of 'fantastic finishes' – Oklahoma scoring 25 unanswered points to take its first lead with just over one minute remaining in the game, the teams scoring 22 points in the final 1:26 of regulation and 15 points in overtime, culminating with Boise State completing three do-or-die trick plays (the first of which was called with 17 seconds remaining in the fourth quarter) to win the game.",
+	        "event_type": "event",
+	        "link": "",
+	        "icon": "circle_orange.png",
+	        "low_threshold": "1",
+	        "high_threshold": "100",
+	        "importance": "55",
+	        "ypix": "0",
+	        "slug": ""
+	    }
+    ]
+}
+]
